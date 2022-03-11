@@ -34,3 +34,7 @@ Print information about a `.dat` file in the current working directory
     
 
     
+### TODO
+
+* The image is currently still quite large, strip it down
+* Create a "help" command
